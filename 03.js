@@ -18,5 +18,7 @@ function callback(fullName,ageInDays){
 
 }
 
+// Output
+// The Person fullName:Vikash Prajapati and Age: 7665
 
 

@@ -10,3 +10,6 @@ function logString(manipulatedString){
 }
 
 manipulatedString("hello , world", logString)
+
+// Output
+// The manipulated String : HELLO , WORLD

@@ -17,3 +17,7 @@ function doubledNumber(num){
 const doubledResult=a(arr,doubledNumber);
 
 console.log(doubledResult)
+
+
+// Output:
+// [ 20, 40, 60, 80, 100 ]
